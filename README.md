@@ -1,7 +1,7 @@
 ![](https://i.loli.net/2021/02/09/Mgv3z51fL8poh4W.png)
 ![](https://img.shields.io/github/last-commit/Arasple/TrMenu?logo=artstation&style=for-the-badge&color=9266CC)![](https://img.shields.io/github/issues/Arasple/TrMenu?style=for-the-badge&logo=slashdot)![](https://img.shields.io/github/release/Arasple/TrMenu?style=for-the-badge&color=00C58E&logo=ionic)
 
----
+----
 
 ### 🔔 What's new in TrMenu v3?
 
